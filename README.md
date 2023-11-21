@@ -34,4 +34,4 @@ PassGen is a simple yet robust password generator designed to help users create 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/PassGen.git
+gh repo clone surendranath-chakraborty/PassGen
