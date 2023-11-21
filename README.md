@@ -2,9 +2,6 @@
 PassGen is a simple yet robust password generator designed to help users create strong and secure passwords for their online accounts. With increasing concerns about online security, having a reliable password is essential. PassGen makes the process easy, allowing you to generate complex passwords tailored to your specific requirements.
 
 <!-- Project Title -->
-<p align="center">
-  <img src="back.png" alt="PassGen Logo" width="200" height="200">
-</p>
 <h1 align="center">PassGen - Password Generator</h1>
 
 <!-- Badges -->
