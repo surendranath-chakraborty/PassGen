@@ -3,7 +3,7 @@ PassGen is a simple yet robust password generator designed to help users create 
 
 <!-- Project Title -->
 <p align="center">
-  <img src="passgen-logo.png" alt="PassGen Logo" width="200" height="200">
+  <img src="back.png" alt="PassGen Logo" width="200" height="200">
 </p>
 <h1 align="center">PassGen - Password Generator</h1>
 
